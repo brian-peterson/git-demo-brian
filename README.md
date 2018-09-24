@@ -1,6 +1,8 @@
 # README
 
+## Contributors
 
-##contributors
 
 -sam
+
+-- Alice
